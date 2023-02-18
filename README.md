@@ -88,6 +88,11 @@ Once all nominations are complete, the selection committee will vote, via [ranke
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
+            <img src="./committee/layla-porter.jpg" height="100" />
+            <br />
+            <a href="https://twitter.com/LaylaCodesIt" target="_blank">Layla Porter</a>
+        </td>
+        <td style="text-align: center; vertical-align: middle;">
             <img src="./committee/norm-johanson.png" height="100" />
             <br />
             <a href="https://twitter.com/socketnorm" target="_blank">Norm Johanson</a>
@@ -102,7 +107,6 @@ Once all nominations are complete, the selection committee will vote, via [ranke
             <br />
             <a href="https://www.linkedin.com/in/samiullah-mohammed-6948842/" target="_blank">Samiullah Mohammed</a>
         </td>
-        <td></td>
     </tr>
 </table>
 
