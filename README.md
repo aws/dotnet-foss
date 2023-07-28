@@ -116,9 +116,9 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | February | [MassTransit](https://github.com/MassTransit/MassTransit) |
 | March    | [Nuke](https://github.com/nuke-build/nuke)|
 | April    | [Marten](https://github.com/JasperFx/marten)|
-| May      |  |
-| June     |
-| July     |
+| May      | [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)|
+| June     | [ApiEndpoints](https://github.com/ardalis/ApiEndpoints)|
+| July     | [Blazored LocalStorage](https://github.com/Blazored/LocalStorage)|
 | August     |
 | September   |
 | October|
