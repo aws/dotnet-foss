@@ -134,7 +134,6 @@ In 2022, the .NET on AWS team sponsored 10 projects with one-time donations of $
 | Project |
 | --------------- |
 | [AutoMapper](https://github.com/AutoMapper/AutoMapper) |
-| [Moq](https://github.com/Moq/moq) |
 | [FluentValidation](https://github.com/FluentValidation/FluentValidation) |
 | [FluentAssertions](https://github.com/fluentassertions/fluentassertions) |
 | [Autofac](https://github.com/autofac/Autofac) |
