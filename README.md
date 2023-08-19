@@ -119,9 +119,9 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | May      | [AvaloniaUI](https://github.com/AvaloniaUI/Avalonia)|
 | June     | [ApiEndpoints](https://github.com/ardalis/ApiEndpoints)|
 | July     | [Blazored LocalStorage](https://github.com/Blazored/LocalStorage)|
-| August     |
-| September   |
-| October|
+| August   | [YamlDotNet](https://github.com/aaubry/YamlDotNet) |
+| September |
+| October |
 | November  |
 | December  |
 
