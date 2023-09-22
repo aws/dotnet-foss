@@ -120,7 +120,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | June     | [ApiEndpoints](https://github.com/ardalis/ApiEndpoints)|
 | July     | [Blazored LocalStorage](https://github.com/Blazored/LocalStorage)|
 | August   | [YamlDotNet](https://github.com/aaubry/YamlDotNet) |
-| September |
+| September | [Verify](https://github.com/VerifyTests/Verify) | 
 | October |
 | November  |
 | December  |
