@@ -121,7 +121,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | July     | [Blazored LocalStorage](https://github.com/Blazored/LocalStorage)|
 | August   | [YamlDotNet](https://github.com/aaubry/YamlDotNet) |
 | September | [Verify](https://github.com/VerifyTests/Verify) | 
-| October |
+| October | [Dapper](https://github.com/DapperLib/Dapper) |
 | November  |
 | December  |
 
