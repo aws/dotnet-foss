@@ -122,7 +122,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | August   | [YamlDotNet](https://github.com/aaubry/YamlDotNet) |
 | September | [Verify](https://github.com/VerifyTests/Verify) | 
 | October | [Dapper](https://github.com/DapperLib/Dapper) |
-| November  |
+| November  | [PuppeteerSharp](https://github.com/hardkoded/puppeteer-sharp) |
 | December  |
 
 
