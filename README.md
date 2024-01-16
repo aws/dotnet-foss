@@ -18,7 +18,7 @@ Every month, the selection committee nominates 2-3 projects to put up for select
 
 Once all nominations are complete, the selection committee will vote, via [ranked-choice voting](https://en.wikipedia.org/wiki/Ranked_voting), to select a project to award the grant to. The news of this award will be made to the maintainer and if the recipient chooses to receive the award, the donation will be initiated via GitHub sponsors. If the recipient declines the award, the 2nd place vote getter will be notified and so on. Once initial funding has been completed, the selected project will be announced here as well as amplified on the [@dotnetOnAWS Twitter Handle](https://twitter.com/dotnetonaws)
 
-## 2023 Selection Committee
+## 2024 Selection Committee
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
@@ -107,6 +107,23 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 
 
 ## Funding Recipients
+
+### 2024
+
+| Month | Project  |
+| --------- | --------------- |
+| January   | [EF Core Power Tools](https://github.com/ErikEJ/EFCorePowerTools) |
+| February  |  |
+| March     |  |
+| April     |  |
+| May       |  |
+| June      |  |
+| July      |  |
+| August    |  |
+| September |  | 
+| October   |  |
+| November  |  |
+| December  |  |
 
 ### 2023
 
