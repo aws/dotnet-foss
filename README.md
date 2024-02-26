@@ -113,7 +113,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | Month | Project  |
 | --------- | --------------- |
 | January   | [EF Core Power Tools](https://github.com/ErikEJ/EFCorePowerTools) |
-| February  |  |
+| February  | [CvsHelper](https://github.com/JoshClose/CsvHelper) |
 | March     |  |
 | April     |  |
 | May       |  |
