@@ -116,7 +116,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | February  | [CvsHelper](https://github.com/JoshClose/CsvHelper) |
 | March     | [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET) |
 | April     | [Polly](https://github.com/App-vNext/Polly) |
-| May       |  |
+| May       | [xUnit](https://xunit.net/) |
 | June      |  |
 | July      |  |
 | August    |  |
