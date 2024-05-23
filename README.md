@@ -100,7 +100,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
         <td style="text-align: center; vertical-align: middle;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" height="100" />
             <br />
-            Samiullah<br/>Mohammed
+            <a href="https://github.com/aws/credentials-fetcher" target="_blank">Samiullah<br/>Mohammed</a>
         </td>
     </tr>
 </table>
