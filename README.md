@@ -98,9 +98,9 @@ Once all nominations are complete, the selection committee will vote, via [ranke
             <a href="https://www.linkedin.com/in/philip-p-9796183/" target="_blank">PJ Pittle</a>
         </td>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="./committee/samiullah-mohammed.jpeg" height="100" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png" height="100" />
             <br />
-            <a href="https://www.linkedin.com/in/samiullah-mohammed-6948842/" target="_blank">Samiullah Mohammed</a>
+            Samiullah<br/>Mohammed
         </td>
     </tr>
 </table>
