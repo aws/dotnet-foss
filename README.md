@@ -22,11 +22,6 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 <table>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="./committee/abhi-gujjewar.jpeg" height="100" />
-            <br />
-            <a href="https://www.linkedin.com/in/abhiramgujjewar/" target="_blank">Abhi Gujjewar</a>
-        </td>
-        <td style="text-align: center; vertical-align: middle;">
             <img src="./committee/alexey-zimarev.png" height="100" />
             <br />
             <a href="https://twitter.com/Zimareff" target="_blank">Alexey Zimarev</a>
@@ -41,12 +36,17 @@ Once all nominations are complete, the selection committee will vote, via [ranke
             <br />
             <a href="https://twitter.com/bryanjhogan" target="_blank">Bryan Hogan</a>
         </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; vertical-align: middle;">
+                <td style="text-align: center; vertical-align: middle;">
             <img src="./committee/dave-glick.jpg" height="100" />
             <br />
             <a href="https://www.linkedin.com/in/daveaglick/" target="_blank">Dave Glick</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; vertical-align: middle;">
+            <img src="https://media.licdn.com/dms/image/D5603AQGioxaOKtL66Q/profile-displayphoto-shrink_800_800/0/1713386135407?e=1726704000&v=beta&t=TEAqcO6D_xgjVCxKyI5LlqWjcSyEPtFQfs0FhVdgtoM" height="100" />
+            <br />
+            <a href="https://www.linkedin.com/in/davidpallmann/" target="_blank">David Pallmann</a>
         </td>
         <td style="text-align: center; vertical-align: middle;">
             <img src="./committee/dennis-doomen.jpeg" height="100" />
