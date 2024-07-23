@@ -4,7 +4,7 @@ The .NET on AWS team is committed to supporting a healthy and thriving .NET OSS 
 
 ### What is the fund?
 
-For 2023, we are growing the size of the program, continuing on the work done in 2022 when 10 projects were selected and given a one-time donation of $5,000. In 2023, we will have an expanded process for selecting projects, as well as increasing the number of projects sponsored and the funding amount, moving to 12 total projects, one per month, with a per project funding of $6,000.
+In 2023, we increased the size of the program, continuing on the work done in 2022 when 10 projects were selected and given a one-time donation of $5,000. We now have an expanded process for selecting projects with increased funding, one per month, with a per project funding of $6,000.
 
 Every month a new fund will be initiated, with a selection process that is unique every month. Instead of a one-time donation, the selected project will receive 12 monthly donations, via GitHub sponsors, in the amount of $500, totalling $6,000.
 
