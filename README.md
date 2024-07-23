@@ -117,8 +117,8 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | March     | [DuckDB.NET](https://github.com/Giorgi/DuckDB.NET) |
 | April     | [Polly](https://github.com/App-vNext/Polly) |
 | May       | [xUnit](https://xunit.net/) |
-| June      |  |
-| July      |  |
+| June      | no award |
+| July      | [Magick.NET](https://github.com/dlemstra/Magick.NET) |
 | August    |  |
 | September |  | 
 | October   |  |
