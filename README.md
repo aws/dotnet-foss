@@ -119,8 +119,8 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | May       | [xUnit](https://xunit.net/) |
 | June      | no award |
 | July      | [Magick.NET](https://github.com/dlemstra/Magick.NET) |
-| August    |  |
-| September |  | 
+| August    | no award |
+| September | [CSharpier](https://github.com/belav/csharpier) | 
 | October   |  |
 | November  |  |
 | December  |  |
