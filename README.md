@@ -44,7 +44,7 @@ Once all nominations are complete, the selection committee will vote, via [ranke
     </tr>
     <tr>
         <td style="text-align: center; vertical-align: middle;">
-            <img src="https://media.licdn.com/dms/image/D5603AQGioxaOKtL66Q/profile-displayphoto-shrink_800_800/0/1713386135407?e=1726704000&v=beta&t=TEAqcO6D_xgjVCxKyI5LlqWjcSyEPtFQfs0FhVdgtoM" height="100" />
+            <img src="https://avatars.githubusercontent.com/u/140167815?s=400&u=fb3a397a29d57e7ec16f753dcab976fb27b308c7&v=4" height="100" />
             <br />
             <a href="https://www.linkedin.com/in/davidpallmann/" target="_blank">David Pallmann</a>
         </td>
