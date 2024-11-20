@@ -121,9 +121,9 @@ Once all nominations are complete, the selection committee will vote, via [ranke
 | July      | [Magick.NET](https://github.com/dlemstra/Magick.NET) |
 | August    | no award |
 | September | [CSharpier](https://github.com/belav/csharpier) | 
-| October   |  |
-| November  |  |
-| December  |  |
+| October   | [Bogus](https://github.com/bchavez/Bogus) |
+| November  | [CleanArchitecture](https://github.com/ardalis/CleanArchitecture) |
+| December  | [Roslynator](https://github.com/dotnet/roslynator) |
 
 ### 2023
 
